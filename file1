@@ -1,3 +1,13 @@
  hey i am using git
 
-Devops 
+Devops
+
+
+
+
+
+sudo systemctl restart sshd.service
+
+sudo systemctl status sshd.service
+ sudo systemctl status sshd.service 
+ 
