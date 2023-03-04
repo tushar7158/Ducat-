@@ -1,0 +1,5 @@
+docker run -it ubuntu
+   service docker start
+ start docker service
+  sudo apt install start
+  sudo apt install rstart
