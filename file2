@@ -1,0 +1,12 @@
+sudo systemctl restart sshd.service
+
+sudo systemctl status sshd.service
+ sudo systemctl status sshd.service 
+$ sudo nano /etc/ansible/hosts 
+$ ansible-inventory --list  -y 
+vi /etc/ansible/ansible.cfg
+ root 
+visudo
+  nano /etc/ssh/sshd_configsudo systemctl restart sshd.service
+
+
